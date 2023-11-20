@@ -15,5 +15,16 @@ Thus, it is coherent to affirm that the more satellites orbiting the Earth, the 
 Our proposed solution consists on using a swarm of small satellites, in which each member is equipped with a solar-pumped laser (Figure 1). For the purpose of simplicity, we will refer to these devices as "cleaning satellites".
 Each one of these cleaning satellites would direct a laser beam directly to our target piece of debris and, using laser ablation, we would slow it down and lower its height enough for it to be absorbed into the atmosphere. 
 
-## Solution Render
+## Solution Renders
 
+<p align="center">
+<img src="img/12.JPG">
+</p>
+
+<p align="center">
+<img src="img/8.JPG">
+</p>
+
+## Paper Link
+
+The link of the paper will be submitted here once it has been accepted and published by a magazine.
